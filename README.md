@@ -1,4 +1,4 @@
-# AutomationJavaAPI
+# TypingAutomationJavaAPI
 Java automation API repository
 
 ## Instructions
