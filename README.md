@@ -14,3 +14,6 @@ Execute jar with your Java installation (requires at least Java 8)
 java -jar *file_name*
 
 Your browser should initialize showing a QR Code.
+
+
+### REQUIRES JAVA 1.8 OR LATER
